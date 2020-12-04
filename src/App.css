@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: azure;
+}
+.on1{
+  background-color: burlywood;
+}
+.on2{
+  background-color: black;
+  color: beige;
+}
